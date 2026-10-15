@@ -1,7 +1,7 @@
 # Rapport de Travaux Pratiques : Design Pattern Adapter
  
 **Encadrant :** Mohamed YOUSSFI  
-**Étudiant(e) :** Youness HATTABI
+**Étudiant :** Youness HATTABI
 
 ---
 
